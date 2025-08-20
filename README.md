@@ -2,7 +2,7 @@
 
 ![DevOps Cycle](https://i.imgur.com/MYzltxl.png)
 
-## Resources
+## Resources:
 
 - Popular roadmap: <https://roadmap.sh/devops>
 - Popular channels
@@ -19,5 +19,5 @@
   - <https://www.coursera.org/professional-certificates/google-it-support>
   - <https://www.coursera.org/professional-certificates/google-it-automation>
 
-## Track Plan - Batch 1 (Apr 2024 - Sep 2024) 
+## Track Plan - Batch 1 (Apr 2024 - Sep 2024) :
 https://docs.google.com/spreadsheets/d/1MkrqcX_s86kn70i4Aix69D8ub8N8nM7XHLdYmW2crjc/edit?usp=sharing
